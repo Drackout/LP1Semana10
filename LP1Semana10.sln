@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntCollections", "IntCollec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualPlayer", "EqualPlayer\EqualPlayer.csproj", "{7CBCA6F6-B627-4797-A872-9151BE8FE074}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilePower", "FilePower\FilePower.csproj", "{86641CC6-444E-46CB-85A1-D14CB8C213C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilePower2", "FilePower2\FilePower2.csproj", "{AE803E35-FACB-4A2A-B3E6-6F6E889FA896}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{7CBCA6F6-B627-4797-A872-9151BE8FE074}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CBCA6F6-B627-4797-A872-9151BE8FE074}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CBCA6F6-B627-4797-A872-9151BE8FE074}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86641CC6-444E-46CB-85A1-D14CB8C213C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86641CC6-444E-46CB-85A1-D14CB8C213C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86641CC6-444E-46CB-85A1-D14CB8C213C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86641CC6-444E-46CB-85A1-D14CB8C213C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE803E35-FACB-4A2A-B3E6-6F6E889FA896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE803E35-FACB-4A2A-B3E6-6F6E889FA896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE803E35-FACB-4A2A-B3E6-6F6E889FA896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE803E35-FACB-4A2A-B3E6-6F6E889FA896}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
